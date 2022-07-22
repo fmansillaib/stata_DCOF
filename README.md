@@ -1,4 +1,4 @@
-# [STATA: Finesse](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs) 
+# [[STATA]: Discrimination Capacity of Features (dcof.ado)](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs) 
 
 - #### Creado, por: Franco A. Mansilla Ibañez, Chile.
 - email: franco.andres.mansilla@gmail.com
@@ -18,7 +18,7 @@
 
 ## Instalación:
 - Paso 1: Descargar el archivo finesse.ado 
-- Paso 2: Ir a la carpeta de Stata (usualmente Disco C) -> Carpeta ado -> Guardar archivo en letra “S”.
+- Paso 2: Ir a la carpeta de Stata (usualmente Disco C) -> Carpeta ado -> Guardar archivo en letra “D”.
 - Paso 3: Cerrar y Abrir Stata. 
 - Paso 4: Utilizar código.
 
@@ -27,7 +27,7 @@
 En stata llamar, código:
 
 ```stata
-  finesse var_x (var's_x), var_y (variable) lvl_conf (#) sample (variable) sort (#)
+  dcof var_x (var's_x), var_y (variable) lvl_conf (#) sample (variable) sort (#)
 ```
 
 - **var_x:** Señalar la(s) variable(s) en que el código analizara. 
