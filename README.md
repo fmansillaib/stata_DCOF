@@ -38,10 +38,8 @@ En stata llamar, código:
 
 ## Alcance:
 
-1. Código solo se puede aplicar para grupo de variables dicotomicas. 
-2. Código solo se puede utilizar para diferencias de medios, no establecer una valor especifico en la hipotesis. 
-
-
+1. Código solo se puede aplicar para grupo de variables dicotómicas. 
+2. Código solo se puede utilizar para diferencias de medios, no establecer una valor especifico en la hipótesis. 
 
 ## Resultado Ejemplo:
 ![ejemplo output](https://github.com/fmansillaib/stata_Finesse/blob/main/1.ejemplo_output.png)
