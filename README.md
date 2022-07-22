@@ -1,4 +1,4 @@
-# [STATA: Finesse)](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs) 
+# [STATA: Finesse](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs) 
 
 - #### Creado, por: Franco A. Mansilla Ibañez, Chile.
 - email: franco.andres.mansilla@gmail.com
