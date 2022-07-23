@@ -5,10 +5,9 @@
 - Linkedin: https://www.linkedin.com/in/francomansilla/
 - Medium: https://medium.com/@fmansillaib
 
-## Download Carpeta: [Pincha Aquí](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs)
-- Contenido: Guía de usuario; psmote.ado y Ejemplo_practico.do.
+`versión 1.0- 07/2022`
 
-## Descripción del Código: 
+## Descripción: 
 
 1. Es un código que te permite evaluar estadísticamente si una o un set de variables (usualmente x(s)) discriminan tu variable grupo.
 2. El código utiliza una prueba de diferencias de varianza (Fisher) y luego si define una prueba de diferencias de medias con la t-Student, en función a los resultados de Fisher si las varianza son iguales o desiguales entre grupos.
@@ -17,7 +16,7 @@
 
 
 ## Instalación:
-- Paso 1: Descargar el archivo finesse.ado 
+- Paso 1: Descargar el archivo [finesse.ado](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs)
 - Paso 2: Ir a la carpeta de Stata (usualmente Disco C) -> Carpeta ado -> Guardar archivo en letra “D”.
 - Paso 3: Cerrar y Abrir Stata. 
 - Paso 4: Utilizar código.
@@ -41,6 +40,6 @@ En stata llamar, código:
 1. Código solo se puede aplicar para grupo de variables dicotómicas. 
 2. Código solo se puede utilizar para diferencias de medios, no establecer una valor especifico en la hipótesis. 
 
-## Resultado Ejemplo:
+## OUTPUT Ejemplo:
 ![ejemplo output](https://github.com/fmansillaib/stata_Finesse/blob/main/1.ejemplo_output.png)
 
