@@ -3,7 +3,7 @@
 * creado por: Franco A. Mansilla Ibañez, Chile.
 
 
-program define finesse, rclass 
+program define dcof, rclass 
 version 17
 
 args var_y var_xs lvl_conf sample sort
@@ -132,9 +132,7 @@ if `sort' == 0 {
 display " "
 display " "
 display "* creado, por: Franco A. Mansilla Ibañez"
-display "* Linkedin: https://www.linkedin.com/in/francomansilla/"
-display "* Medium: https://medium.com/@fmansillaib"
-
+display "* www.francomansilla.cl"
 end
 exit 
  
