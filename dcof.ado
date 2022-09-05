@@ -1,7 +1,8 @@
-
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
 * Código de Identificación de Variables Discriminatorias *
 * creado por: Franco A. Mansilla Ibañez, Chile.
-* website: www.francomansilla.com
+* website: www.francomansilla.com 
+* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ *
 
 
 program define dcof, rclass 
@@ -106,15 +107,15 @@ if "`sample'" != "all_sample" {
 
 
 display " "
-display "* ------------------------------------- *"
-display "*  Resumen de la Información Utilizada *"
-display "* ------------------------------------- *"
+display "* ~~~~~~~~~~~~~~~~~~~~~ *"
+display "* Información Utilizada *"
+display "* ~~~~~~~~~~~~~~~~~~~~~ *"
 display " "
-display "-> Variable Independiente (y): `var_y' " 
-display "-> Nivel de Confianza: " `lvl_conf' "%"
-display "-> Variables Dependientes (x's): `varlist'" 
+display "~> Variable Independiente (y): `var_y' " 
+display "~> Nivel de Confianza: " `lvl_conf' "%"
+display "~> Variables Dependientes (x's): `varlist'" 
 display " "
-display "-> Resultado:"
+display "~> Resultado:"
 
 if `sort' == 1 {
 	
@@ -129,8 +130,7 @@ if `sort' == 0 {
 	matrix list A
 }
 
-
-display " "
-
+end
+exit 
  
 
