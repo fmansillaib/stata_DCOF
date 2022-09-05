@@ -1,6 +1,7 @@
 
 * Código de Identificación de Variables Discriminatorias *
 * creado por: Franco A. Mansilla Ibañez, Chile.
+* website: www.francomansilla.com
 
 
 program define dcof, rclass 
@@ -130,10 +131,6 @@ if `sort' == 0 {
 
 
 display " "
-display " "
-display "* creado, por: Franco A. Mansilla Ibañez"
-display "* www.francomansilla.cl"
-end
-exit 
+
  
 
