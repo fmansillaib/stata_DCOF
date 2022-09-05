@@ -16,7 +16,7 @@
 
 
 ## Instalación:
-- Paso 1: Descargar el archivo [finesse.ado](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs)
+- Paso 1: Descargar el archivo [dcof.ado](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs)
 - Paso 2: Ir a la carpeta de Stata (usualmente Disco C) -> Carpeta ado -> Guardar archivo en letra “D”.
 - Paso 3: Cerrar y Abrir Stata. 
 - Paso 4: Utilizar código.
