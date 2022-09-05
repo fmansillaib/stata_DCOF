@@ -1,7 +1,7 @@
 # [[STATA]: Discrimination Capacity of Features (dcof.ado)](https://drive.google.com/open?id=15rDmvm-mMWcooGO6Rxw0jwr5y76AX3SX&authuser=fmansilla%40fen.uchile.cl&usp=drive_fs) 
 
 - #### Creado, por: Franco A. Mansilla Ibañez, Chile.
-- #### website: [wwww.francomansilla.com][wwww.francomansilla.com]
+- #### website: [wwww.francomansilla.com](wwww.francomansilla.com)
 
 `versión 1.0- 07/2022`
 
